@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Glauber Jesus Loiola</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/GL-19](https://github.com/GL-19)
 
 - 📫 How to reach me **loiolagl19@gmail.com**
