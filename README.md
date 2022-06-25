@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Glauber Jesus Loiola</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">I'm Glauber Jesus Loiola</h1>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/GL-19](https://github.com/GL-19)
 
