@@ -1,10 +1,9 @@
 <h1 align="center">Glauber Jesus Loiola</h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/GL-19](https://github.com/GL-19)
+Graduado em Engenharia Elétrica com Ênfases em Computação e Eletrônica, estou focado em iniciar minha carreira em desenvolvimento web. Tenho procurado me aprimorar constantemente, focando no desenvolvimento de aplicações utilizando React e Node, mas com mente aberta para aprender novas tecnologias.
 
-- 📫 How to reach me **gloiola19@hotmail.com.br**
 
-<h3 align="left">Connect with me:</h3>
+- 📫Contato: **gloiola19@hotmail.com.br**
 <p align="left">
 </p>
 
