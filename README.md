@@ -1,8 +1,5 @@
 <h1 align="center">Glauber Jesus Loiola</h1>
 
-Graduado em Engenharia Elétrica com Ênfases em Computação e Eletrônica, estou focado em iniciar minha carreira em desenvolvimento web. Sou uma pessoa curiosa e inquieta, que está sempre em busca de expandir meus conhecimentos e de resolver novos desafios. Tenho procurado me aprimorar constantemente, focando principalmente no desenvolvimento de aplicações utilizando React e Node, mas com mente aberta para aprender novas tecnologias.
-
-
 - 📫Contato: **gloiola19@hotmail.com.br**
 <p align="left">
 </p>
